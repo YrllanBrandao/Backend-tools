@@ -6,11 +6,9 @@
 
 [<p align="center">Contribution guideline »</p>](https://github.com/YrllanBrandao/Backend-tools/blob/main/CONTRIBUTING.md)
 
-<p align="center"> License
-This repository is under the MIT license. For more informations, [click here].(https://github.com/YrllanBrandao/Backend-tools/blob/main/LICENSE).
-</p>
 
-<div>
+
+
 <br />
   <hr>
 
@@ -25,5 +23,15 @@ Server | Description
 | [NGINX](https://www.nginx.com/) | Web server open-source
 
   
- **[⬆ Back to Index](#index)**
+ <div align="center">
+ 
+  **[⬆ Back to Index](#index)**
+  
+</div>
   <hr>
+<div align="center">
+  
+  ## License
+
+MIT (c) 2022 Backend-tools
+  </div>
