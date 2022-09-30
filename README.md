@@ -6,8 +6,9 @@
 
 [<p align="center">Contribution guideline »</p>](https://github.com/YrllanBrandao/Backend-tools/blob/main/CONTRIBUTING.md)
 
-License
-This repository is under the MIT license. For more informations, [click here](https://github.com/YrllanBrandao/Backend-tools/blob/main/LICENSE).
+<p align="center"> License
+This repository is under the MIT license. For more informations, [click here].(https://github.com/YrllanBrandao/Backend-tools/blob/main/LICENSE).
+</p>
 
 <div>
 <br />
