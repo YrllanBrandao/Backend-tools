@@ -3,7 +3,7 @@
 
 <p align="center">A collective list of Backend tools</p>
 
-[<p align="center">Start browse »</p>](#)
+
 [<p align="center">Contribution guideline »</p>](https://github.com/YrllanBrandao/Backend-tools/blob/main/CONTRIBUTING.md)
 
 License
