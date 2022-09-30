@@ -21,7 +21,7 @@ This repository is under the MIT license. For more informations, [click here](ht
 ### Servers
 Server | Description 
 |---|---|
-| [NGINX](https://www.nginx.com/) | Web server onen-source
+| [NGINX](https://www.nginx.com/) | Web server open-source
 
   
  **[⬆ Back to Index](#index)**
