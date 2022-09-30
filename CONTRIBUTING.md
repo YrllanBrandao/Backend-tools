@@ -15,9 +15,9 @@ A link needs to be added in its most authentic form, that is:
 - You cannot add affiliate links (or with tracker parameters)
 
 To maintain a general standard across all links, you should:
-- Add a direct link to the content
+- Add a direct link to the tool
 - Add a title that matches the title of the tool
-- Add a simple and short summary
+
 
 Some other observations are:
 - Don't add a period in the title or description of the link
